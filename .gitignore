@@ -1,0 +1,4 @@
+node_module
+.vs
+node_module/*
+.vs/*
